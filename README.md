@@ -11,7 +11,8 @@ The dashboard provides key business insights for a shoe retail company, includin
 
 
 
-Dashboard.png
+<img width="1230" height="765" alt="Dashboard" src="https://github.com/user-attachments/assets/58bdd8ef-2421-4e84-adaa-92de2df83c07" />
+
 
 
 
@@ -54,7 +55,7 @@ Wave Shoes Sales Dashboard Looker Studio link🔗
 
 🧠 Learning Outcomes
 
-🟠Data cleaning & modelling
+🟠Data cleaning & modelling 
 🟠Looker Studio charts & filter usage
 🟠Real-world retail analytics
 🟠KPI cards & theme styling
