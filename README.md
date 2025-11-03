@@ -37,42 +37,24 @@ Tool	Purpose
 Google Looker Studio	Dashboard creation & visualization
 Google Sheets / CSV	Data source
 Data Cleaning	Pre-processed dataset (Excel / Sheets)
+
 📂 Files Include 
-
 [Wave Shoes Store _ Sales Data.xlsx](https://github.com/user-attachments/files/23300053/Wave.Shoes.Store._.Sales.Data.xlsx)
-uded
 
-
-
-Wave Shoes Sales Dashboard Looker Studio link
-
-Project documentation
-
+Wave Shoes Sales Dashboard Looker Studio link🔗
 🔗 Live Dashboard Link
-
 👉 https://lookerstudio.google.com/s/mHjA40ldxu4
 
 
-
-
 🎯 Insights Derived
-
-Formal shoe category generated highest sales
-
-Uttar Pradesh, West Bengal & Maharashtra are top-performing states
-
-Sales peak observed around festive months
-
-Most popular shoe type: Single Monk & Sneakers
-
-Semi-Casual category has growth opportunity due to lower sales volume
+🟠Formal shoe category generated highest sales
+🟠Uttar Pradesh, West Bengal & Maharashtra are top-performing states
+🟠Sales peak observed around festive months
+🟠Most popular shoe type: Single Monk & Sneakers
+🟠Semi-Casual category has growth opportunity due to lower sales volume
 
 🧠 Learning Outcomes
-
-Data cleaning & modelling
-
-Looker Studio charts & filter usage
-
-Real-world retail analytics
-
-KPI cards & theme styling
+🟠Data cleaning & modelling
+🟠Looker Studio charts & filter usage
+🟠Real-world retail analytics
+🟠KPI cards & theme styling
