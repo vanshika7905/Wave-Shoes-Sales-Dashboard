@@ -9,10 +9,20 @@ The dashboard provides key business insights for a shoe retail company, includin
 ✅ Profit visualization
 ✅ Advanced filtering & drill-down capabilities
 
-Dashboard.png
 
 
-(Add screenshot here when uploading — the one you shared)
+
+
+<img width="1230" height="765" alt="Dashboard" src="https://github.com/user-attachments/assets/d4ca52c5-01ed-400a-9b6e-d7a77c228272" />
+
+
+
+
+
+
+
+
+
 
 ✨ Key Features
 Feature	Description
@@ -27,9 +37,12 @@ Tool	Purpose
 Google Looker Studio	Dashboard creation & visualization
 Google Sheets / CSV	Data source
 Data Cleaning	Pre-processed dataset (Excel / Sheets)
-📂 Files Included
+📂 Files Include 
 
-Dataset.csv (optional if you upload)
+[Wave Shoes Store _ Sales Data.xlsx](https://github.com/user-attachments/files/23300053/Wave.Shoes.Store._.Sales.Data.xlsx)
+uded
+
+
 
 Wave Shoes Sales Dashboard Looker Studio link
 
@@ -37,11 +50,10 @@ Project documentation
 
 🔗 Live Dashboard Link
 
-👉 (Paste your Looker Studio dashboard link here)
+👉 https://lookerstudio.google.com/s/mHjA40ldxu4
 
-Example
 
-https://lookerstudio.google.com/...
+
 
 🎯 Insights Derived
 
