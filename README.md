@@ -11,9 +11,7 @@ The dashboard provides key business insights for a shoe retail company, includin
 
 
 
-
-
-<img width="1230" height="765" alt="Dashboard" src="https://github.com/user-attachments/assets/d4ca52c5-01ed-400a-9b6e-d7a77c228272" />
+Dashboard.png
 
 
 
@@ -47,6 +45,7 @@ Wave Shoes Sales Dashboard Looker Studio link🔗
 
 
 🎯 Insights Derived
+
 🟠Formal shoe category generated highest sales
 🟠Uttar Pradesh, West Bengal & Maharashtra are top-performing states
 🟠Sales peak observed around festive months
@@ -54,6 +53,7 @@ Wave Shoes Sales Dashboard Looker Studio link🔗
 🟠Semi-Casual category has growth opportunity due to lower sales volume
 
 🧠 Learning Outcomes
+
 🟠Data cleaning & modelling
 🟠Looker Studio charts & filter usage
 🟠Real-world retail analytics
